@@ -1,3 +1,5 @@
+## Funcionario
+
 Este programa em Java permite gerenciar funcionários em uma empresa. Ele solicita ao usuário o número de funcionários a serem cadastrados e, em seguida, coleta informações como nome, ID e salário para cada funcionário. Após o cadastro, o programa permite interagir com os funcionários por meio de um menu interativo, onde é possível visualizar informações do funcionário, aumentar ou reduzir seu salário, e sair do programa. O programa utiliza a classe `funcionario` para representar cada funcionário, com métodos para acessar e modificar os dados do funcionário, bem como para calcular alterações salariais com base em porcentagens fornecidas pelo usuário.
 
 A classe funcionario representa um funcionário em uma empresa. Ela possui atributos para armazenar o nome, identificação (ID) e salário do funcionário. Além disso, inclui métodos para acessar e modificar esses atributos, bem como para alterar o salário com base em uma porcentagem específica. O método toString foi implementado para fornecer uma representação em string dos dados do funcionário.
